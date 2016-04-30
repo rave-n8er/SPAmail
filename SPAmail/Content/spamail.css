@@ -1,0 +1,11 @@
+﻿
+ul
+{
+    list-style-type:none;
+    cursor:pointer;
+}
+
+#tblEmails tr td
+{
+    padding: 4px 0px 4px 10px; 
+}
